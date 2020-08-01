@@ -1,5 +1,5 @@
 <?php
-echo "dipendu";
+echo "dipendu roy";
 phpinfo();
 
 ?>
